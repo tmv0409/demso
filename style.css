@@ -1,0 +1,16 @@
+button{
+    width: 40px;
+	height: 30px;
+	border-radius: 5px;
+	border:none;
+	background-color: hsl(315, 100%, 54%);
+	color: white;
+}
+id{
+    width: 130px;
+	height: 40px;
+	border-radius: 5px;
+	border:none;
+	background-color: #167bff;
+	color: white;
+}
